@@ -11,3 +11,6 @@ Trabajo Práctico Integrador de la asignatura Organización Empresarial (TUPaD -
 - Diagrama de Gantt (Entrega 2)
 - Organigrama (Entrega 3)
 - Diagrama BPMN (Entrega 4)
+## Tablero de gestión (Jira)
+
+Tablero ágil del proyecto (3 épicas y 7 historias de usuario del módulo SGCI-AMI): https://ricardosworkspace-4becce85.atlassian.net/jira/software/projects/SGCI/boards/1
